@@ -1,1 +1,1 @@
-Generates random numbers.
+Generates random numbers
